@@ -17,4 +17,4 @@ EXPOSE 5000
 ENTRYPOINT [ "python3" ]
 
 # イメージに含まれるソフトウェアの実行
-CMD [ "app.py" ]
+# CMD [ "app.py" ]
